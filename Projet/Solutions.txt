@@ -1,0 +1,6 @@
+-Ouvrez la mallete aprés avoir lu le message
+-Ouvrez le compartimez gris foncé en tirant les deux bars sur les cotés puis en glissant le compartiment vers le bas.
+-Placer les pierres sur chacun des cercles prévu à cette effet dans l'ordres du nombre de coins (Bleu,Violet,Rouge,Vert,Rose,Jaune)
+-Vous devez aussi écrire un code sur le clavier, celui s'obtient en reliant les cercles de couleur situé au dessus dans l'ordres des couleurs des pierres. Ce qui donne 069.
+-Les nom de deux rues sont maitenant apparues à cotés des lignes, cela correspond à un emplacement sur la carte et la croix vous indique que le corps se situe à l'intersection des cartes.
+-Ouvrer la carte(En  haut à gauche) puis cliquer sur l'embranchement entre : West St et W Fir St (En haut à gauche de la carte)
